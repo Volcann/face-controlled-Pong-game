@@ -1,4 +1,3 @@
-````markdown
 # Face‑Controlled Pong
 
 A modern, responsive Pong‑style game you control with your face via your webcam. Built with OpenCV and NumPy, it tracks your current score and persists your all‑time high score between sessions.
@@ -30,7 +29,6 @@ A modern, responsive Pong‑style game you control with your face via your webca
    git clone https://github.com/your-username/face-pong.git
    cd face-pong
    ```
-````
 
 2. **Create & activate a virtual environment**
 
