@@ -1,8 +1,10 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 # Face‑Controlled Pong
 
 A modern, responsive Pong‑style game you control with your face via your webcam. Built with OpenCV and NumPy, it tracks your current score and persists your all‑time high score between sessions.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Features
 
@@ -12,7 +14,7 @@ A modern, responsive Pong‑style game you control with your face via your webca
 - **Score tracking**: Shows current score and all‑time high score.
 - **Persistent high score**: Saved to `highscore.txt` automatically.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Prerequisites
 
@@ -20,7 +22,7 @@ A modern, responsive Pong‑style game you control with your face via your webca
 - A working **webcam**
 - **git**, **pip** (or other Python package manager)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Installation & Setup
 
@@ -49,7 +51,7 @@ A modern, responsive Pong‑style game you control with your face via your webca
    - On first run, `highscore.txt` will be created automatically with `0`.
    - To reset, simply delete or edit `highscore.txt`.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Running the Game
 
@@ -60,7 +62,7 @@ python face_pong.py
 - **Quit**: Press `q` in the game window
 - **Resize**: Drag window corners (OpenCV’s `WINDOW_NORMAL`)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Project Structure
 
@@ -72,7 +74,7 @@ face-pong/
 └─ README.md          # This file
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Configuration & Customization
 
@@ -83,7 +85,7 @@ face-pong/
 - **Window size**
   – Adjust the initial `cv2.resizeWindow()` dimensions or remove to use native camera size
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Troubleshooting
 
@@ -94,6 +96,8 @@ face-pong/
 - **Cascade load error**
   – Confirm `opencv-python` is installed; cascade is loaded via `cv2.data.haarcascades`.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 Enjoy controlling Pong with your face—and beat your personal high score! 😄
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
